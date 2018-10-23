@@ -1,2 +1,3 @@
 # Cricket-test-series-data
-Web Scraped All Test Series Data ( Cricinfo )
+Web Scraped Data of all the test series ever played. 
+Data is collected from Cricinfo and prettified and imported using beatifulSoup and Python
