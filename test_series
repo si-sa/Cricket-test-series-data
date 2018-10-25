@@ -1,0 +1,731 @@
+,Home,Away,start,end,winner,home_wins,away_wins,matches_drawn,total_matches
+0,Australia,England,1876,1877,drawn,1,1,0,2
+1,Australia,England,1878,1879,Australia,1,0,0,1
+2,England,Australia,1880,1880,England,1,0,0,1
+3,Australia,England,1881,1882,Australia,2,0,2,4
+4,England,Australia,1882,1882,Australia,0,1,0,1
+5,Australia,England,1882,1883,England,1,2,0,3
+6,Australia,England,1882,1883,Australia,1,0,0,1
+7,England,Australia,1884,1884,England,1,0,2,3
+8,Australia,England,1884,1885,England,2,3,0,5
+9,England,Australia,1886,1886,England,3,0,0,3
+10,Australia,England,1886,1887,England,0,2,0,2
+11,Australia,England,1887,1888,England,0,1,0,1
+12,England,Australia,1888,1888,England,2,1,0,3
+13,South Africa,England,1888,1889,England,0,2,0,2
+14,England,Australia,1890,1890,England,2,0,0,2
+15,South Africa,England,1891,1892,England,0,1,0,1
+16,Australia,England,1891,1892,Australia,2,1,0,3
+17,England,Australia,1893,1893,England,1,0,2,3
+18,Australia,England,1894,1895,England,2,3,0,5
+19,South Africa,England,1895,1896,England,0,3,0,3
+20,England,Australia,1896,1896,England,2,1,0,3
+21,Australia,England,1897,1898,Australia,4,1,0,5
+22,South Africa,England,1898,1899,England,0,2,0,2
+23,England,Australia,1899,1899,Australia,0,1,4,5
+24,Australia,England,1901,1902,Australia,4,1,0,5
+25,England,Australia,1902,1902,Australia,1,2,2,5
+26,South Africa,Australia,1902,1903,Australia,0,2,1,3
+27,Australia,England,1903,1904,England,2,3,0,5
+28,England,Australia,1905,1905,England,2,0,3,5
+29,South Africa,England,1905,1906,South Africa,4,1,0,5
+30,England,South Africa,1907,1907,England,1,0,2,3
+31,Australia,England,1907,1908,Australia,4,1,0,5
+32,England,Australia,1909,1909,Australia,1,2,2,5
+33,South Africa,England,1909,1910,South Africa,3,2,0,5
+34,Australia,South Africa,1910,1911,Australia,4,1,0,5
+35,Australia,England,1911,1912,England,1,4,0,5
+36,Australia,South Africa,1912,1912,Australia,2,0,1,3
+37,England,South Africa,1912,1912,England,3,0,0,3
+38,England,Australia,1912,1912,England,1,0,2,3
+40,South Africa,England,1913,1914,England,0,4,1,5
+41,Australia,England,1920,1921,Australia,5,0,0,5
+42,England,Australia,1921,1921,Australia,0,3,2,5
+43,South Africa,Australia,1921,1922,Australia,0,1,2,3
+44,South Africa,England,1922,1923,England,1,2,2,5
+45,England,South Africa,1924,1924,England,3,0,2,5
+46,Australia,England,1924,1925,Australia,4,1,0,5
+47,England,Australia,1926,1926,England,1,0,4,5
+48,South Africa,England,1927,1928,drawn,2,2,1,5
+49,England,West Indies,1928,1928,England,3,0,0,3
+50,Australia,England,1928,1929,England,1,4,0,5
+51,England,South Africa,1929,1929,England,2,0,3,5
+52,New Zealand,England,1929,1930,England,0,1,3,4
+53,West Indies,England,1929,1930,drawn,1,1,2,4
+54,England,Australia,1930,1930,Australia,1,2,2,5
+55,South Africa,England,1930,1931,South Africa,1,0,4,5
+56,Australia,West Indies,1930,1931,Australia,4,1,0,5
+57,England,New Zealand,1931,1931,England,1,0,2,3
+58,Australia,South Africa,1931,1932,Australia,5,0,0,5
+59,New Zealand,South Africa,1931,1932,South Africa,0,2,0,2
+60,England,India,1932,1932,England,1,0,0,1
+61,Australia,England,1932,1933,England,1,4,0,5
+62,New Zealand,England,1932,1933,drawn,0,0,2,2
+63,England,West Indies,1933,1933,England,2,0,1,3
+64,India,England,1933,1934,England,0,2,1,3
+65,England,Australia,1934,1934,Australia,1,2,2,5
+66,West Indies,England,1934,1935,West Indies,2,1,1,4
+67,England,South Africa,1935,1935,South Africa,0,1,4,5
+68,South Africa,Australia,1935,1936,Australia,0,4,1,5
+69,England,India,1936,1936,England,2,0,1,3
+70,Australia,England,1936,1937,Australia,3,2,0,5
+71,England,New Zealand,1937,1937,England,1,0,2,3
+72,England,Australia,1938,1938,drawn,1,1,2,4
+73,South Africa,England,1938,1939,England,0,1,4,5
+74,England,West Indies,1939,1939,England,1,0,2,3
+75,New Zealand,Australia,1945,1946,Australia,0,1,0,1
+76,England,India,1946,1946,England,1,0,2,3
+77,Australia,England,1946,1947,Australia,3,0,2,5
+78,New Zealand,England,1946,1947,drawn,0,0,1,1
+79,England,South Africa,1947,1947,England,3,0,2,5
+80,Australia,India,1947,1948,Australia,4,0,1,5
+81,West Indies,England,1947,1948,West Indies,2,0,2,4
+82,England,Australia,1948,1948,Australia,0,4,1,5
+83,India,West Indies,1948,1949,West Indies,0,1,4,5
+84,South Africa,England,1948,1949,England,0,2,3,5
+85,England,New Zealand,1949,1949,drawn,0,0,4,4
+86,South Africa,Australia,1949,1950,Australia,0,4,1,5
+87,England,West Indies,1950,1950,West Indies,1,3,0,4
+88,Australia,England,1950,1951,Australia,4,1,0,5
+89,New Zealand,England,1950,1951,England,0,1,1,2
+90,England,South Africa,1951,1951,England,3,1,1,5
+91,Australia,West Indies,1951,1952,Australia,4,1,0,5
+92,India,England,1951,1952,drawn,1,1,3,5
+93,New Zealand,West Indies,1951,1952,West Indies,0,1,1,2
+94,England,India,1952,1952,England,3,0,1,4
+95,India,Pakistan,1952,1953,India,2,1,2,5
+96,Australia,South Africa,1952,1953,drawn,2,2,1,5
+97,New Zealand,South Africa,1952,1953,South Africa,0,1,1,2
+98,West Indies,India,1952,1953,West Indies,1,0,4,5
+99,England,Australia,1953,1953,England,1,0,4,5
+100,South Africa,New Zealand,1953,1954,South Africa,4,0,1,5
+101,West Indies,England,1953,1954,drawn,2,2,1,5
+102,England,Pakistan,1954,1954,drawn,1,1,2,4
+103,Pakistan,India,1954,1955,drawn,0,0,5,5
+104,Australia,England,1954,1955,England,1,3,1,5
+105,New Zealand,England,1954,1955,England,0,2,0,2
+106,West Indies,Australia,1955,1955,Australia,0,3,2,5
+107,England,South Africa,1955,1955,England,3,2,0,5
+108,Pakistan,New Zealand,1955,1956,Pakistan,2,0,1,3
+109,India,New Zealand,1955,1956,India,2,0,3,5
+110,New Zealand,West Indies,1955,1956,West Indies,1,3,0,4
+111,England,Australia,1956,1956,England,2,1,2,5
+112,Pakistan,Australia,1956,1957,Pakistan,1,0,0,1
+113,India,Australia,1956,1957,Australia,0,2,1,3
+114,South Africa,England,1956,1957,drawn,2,2,1,5
+115,England,West Indies,1957,1957,England,3,0,2,5
+116,South Africa,Australia,1957,1958,Australia,0,3,2,5
+117,West Indies,Pakistan,1957,1958,West Indies,3,1,1,5
+118,England,New Zealand,1958,1958,England,4,0,1,5
+119,India,West Indies,1958,1959,West Indies,0,3,2,5
+120,Australia,England,1958,1959,Australia,4,0,1,5
+121,New Zealand,England,1958,1959,England,0,1,1,2
+122,Pakistan,West Indies,1958,1959,Pakistan,2,1,0,3
+123,England,India,1959,1959,England,5,0,0,5
+124,Pakistan,Australia,1959,1960,Australia,0,2,1,3
+125,India,Australia,1959,1960,Australia,1,2,2,5
+126,West Indies,England,1959,1960,England,0,1,4,5
+127,England,South Africa,1960,1960,England,3,0,2,5
+128,India,Pakistan,1960,1961,drawn,0,0,5,5
+129,Australia,West Indies,1960,1961,Australia,2,1,2,5
+130,England,Australia,1961,1961,Australia,1,2,2,5
+131,India,England,1961,1962,India,2,0,3,5
+132,Pakistan,England,1961,1962,England,0,1,2,3
+133,South Africa,New Zealand,1961,1962,drawn,2,2,1,5
+134,West Indies,India,1961,1962,West Indies,5,0,0,5
+135,England,Pakistan,1962,1962,England,4,0,1,5
+136,Australia,England,1962,1963,drawn,1,1,3,5
+137,New Zealand,England,1962,1963,England,0,3,0,3
+138,England,West Indies,1963,1963,West Indies,1,3,1,5
+139,Australia,South Africa,1963,1964,drawn,1,1,3,5
+140,India,England,1963,1964,drawn,0,0,5,5
+141,New Zealand,South Africa,1963,1964,drawn,0,0,3,3
+142,England,Australia,1964,1964,Australia,0,1,4,5
+143,India,Australia,1964,1965,drawn,1,1,1,3
+144,Pakistan,Australia,1964,1965,drawn,0,0,1,1
+145,Australia,Pakistan,1964,1965,drawn,0,0,1,1
+146,New Zealand,Pakistan,1964,1965,drawn,0,0,3,3
+147,South Africa,England,1964,1965,England,0,1,4,5
+148,India,New Zealand,1964,1965,India,1,0,3,4
+149,Pakistan,New Zealand,1964,1965,Pakistan,2,0,1,3
+150,West Indies,Australia,1964,1965,West Indies,2,1,2,5
+151,England,New Zealand,1965,1965,England,3,0,0,3
+152,England,South Africa,1965,1965,South Africa,0,1,2,3
+153,Australia,England,1965,1966,drawn,1,1,3,5
+154,New Zealand,England,1965,1966,drawn,0,0,3,3
+155,England,West Indies,1966,1966,West Indies,1,3,1,5
+156,India,West Indies,1966,1967,West Indies,0,2,1,3
+157,South Africa,Australia,1966,1967,South Africa,3,1,1,5
+158,England,India,1967,1967,England,3,0,0,3
+159,England,Pakistan,1967,1967,England,2,0,1,3
+160,Australia,India,1967,1968,Australia,4,0,0,4
+161,New Zealand,India,1967,1968,India,1,3,0,4
+162,West Indies,England,1967,1968,England,0,1,4,5
+163,England,Australia,1968,1968,drawn,1,1,3,5
+164,Australia,West Indies,1968,1969,Australia,3,1,1,5
+165,Pakistan,England,1968,1969,drawn,0,0,3,3
+166,New Zealand,West Indies,1968,1969,drawn,1,1,1,3
+167,England,West Indies,1969,1969,England,2,0,1,3
+168,England,New Zealand,1969,1969,England,2,0,1,3
+169,India,New Zealand,1969,1970,drawn,1,1,1,3
+170,Pakistan,New Zealand,1969,1970,New Zealand,0,1,2,3
+171,India,Australia,1969,1970,Australia,1,3,1,5
+172,South Africa,Australia,1969,1970,South Africa,4,0,0,4
+173,Australia,England,1970,1971,England,0,2,5,7
+174,New Zealand,England,1970,1971,England,0,1,1,2
+175,West Indies,India,1970,1971,India,0,1,4,5
+176,England,Pakistan,1971,1971,England,1,0,2,3
+177,England,India,1971,1971,India,0,1,2,3
+178,West Indies,New Zealand,1971,1972,drawn,0,0,5,5
+179,England,Australia,1972,1972,drawn,2,2,1,5
+180,Australia,Pakistan,1972,1973,Australia,3,0,0,3
+181,India,England,1972,1973,India,2,1,2,5
+182,New Zealand,Pakistan,1972,1973,Pakistan,0,1,2,3
+183,Pakistan,England,1972,1973,drawn,0,0,3,3
+184,West Indies,Australia,1972,1973,Australia,0,2,3,5
+185,England,New Zealand,1973,1973,England,2,0,1,3
+186,England,West Indies,1973,1973,West Indies,0,2,1,3
+187,Australia,New Zealand,1973,1974,Australia,2,0,1,3
+188,New Zealand,Australia,1973,1974,drawn,1,1,1,3
+189,West Indies,England,1973,1974,drawn,1,1,3,5
+190,England,India,1974,1974,England,3,0,0,3
+191,England,Pakistan,1974,1974,drawn,0,0,3,3
+192,India,West Indies,1974,1975,West Indies,2,3,0,5
+193,Australia,England,1974,1975,Australia,4,1,1,6
+194,New Zealand,England,1974,1975,England,0,1,1,2
+195,Pakistan,West Indies,1974,1975,drawn,0,0,2,2
+196,England,Australia,1975,1975,Australia,0,1,3,4
+197,Australia,West Indies,1975,1976,Australia,5,1,0,6
+198,New Zealand,India,1975,1976,drawn,1,1,1,3
+199,West Indies,India,1975,1976,West Indies,2,1,1,4
+200,England,West Indies,1976,1976,West Indies,0,3,2,5
+201,Pakistan,New Zealand,1976,1977,Pakistan,2,0,1,3
+202,India,New Zealand,1976,1977,India,2,0,1,3
+203,Australia,Pakistan,1976,1977,drawn,1,1,1,3
+204,India,England,1976,1977,England,1,3,1,5
+205,New Zealand,Australia,1976,1977,Australia,0,1,1,2
+207,West Indies,Pakistan,1976,1977,West Indies,2,1,2,5
+208,England,Australia,1977,1977,England,3,0,2,5
+209,Pakistan,England,1977,1978,drawn,0,0,3,3
+210,Australia,India,1977,1978,Australia,3,2,0,5
+211,New Zealand,England,1977,1978,drawn,1,1,1,3
+212,West Indies,Australia,1977,1978,West Indies,3,1,1,5
+213,England,Pakistan,1978,1978,England,2,0,1,3
+214,England,New Zealand,1978,1978,England,3,0,0,3
+215,Pakistan,India,1978,1979,Pakistan,2,0,1,3
+216,India,West Indies,1978,1979,India,1,0,5,6
+217,Australia,England,1978,1979,England,1,5,0,6
+218,New Zealand,Pakistan,1978,1979,Pakistan,0,1,2,3
+219,Australia,Pakistan,1978,1979,drawn,1,1,0,2
+220,England,India,1979,1979,England,1,0,3,4
+221,India,Australia,1979,1980,India,2,0,4,6
+222,Australia,West Indies,1979,1980,West Indies,0,2,1,3
+223,India,Pakistan,1979,1980,India,2,0,4,6
+224,Australia,England,1979,1980,Australia,3,0,0,3
+226,New Zealand,West Indies,1979,1980,New Zealand,1,0,2,3
+227,Pakistan,Australia,1979,1980,Pakistan,1,0,2,3
+228,England,West Indies,1980,1980,West Indies,0,1,4,5
+230,Australia,New Zealand,1980,1981,Australia,2,0,1,3
+231,Pakistan,West Indies,1980,1981,West Indies,0,1,3,4
+232,Australia,India,1980,1981,drawn,1,1,1,3
+233,New Zealand,India,1980,1981,New Zealand,1,0,2,3
+234,West Indies,England,1980,1981,West Indies,2,0,2,4
+235,England,Australia,1981,1981,England,3,1,2,6
+236,Australia,Pakistan,1981,1982,Australia,2,1,0,3
+237,Australia,West Indies,1981,1982,drawn,1,1,1,3
+238,India,England,1981,1982,India,1,0,5,6
+239,Sri Lanka,England,1981,1982,England,0,1,0,1
+240,New Zealand,Australia,1981,1982,drawn,1,1,1,3
+241,Pakistan,Sri Lanka,1981,1982,Pakistan,2,0,1,3
+242,England,India,1982,1982,England,1,0,2,3
+243,England,Pakistan,1982,1982,England,2,1,0,3
+244,India,Sri Lanka,1982,1983,drawn,0,0,1,1
+245,Pakistan,Australia,1982,1983,Pakistan,3,0,0,3
+246,Australia,England,1982,1983,Australia,2,1,2,5
+247,Pakistan,India,1982,1983,Pakistan,3,0,3,6
+248,New Zealand,Sri Lanka,1982,1983,New Zealand,2,0,0,2
+249,Sri Lanka,Australia,1982,1983,Australia,0,1,0,1
+250,West Indies,India,1982,1983,West Indies,2,0,3,5
+251,England,New Zealand,1983,1983,England,3,1,0,4
+252,India,Pakistan,1983,1984,drawn,0,0,3,3
+253,India,West Indies,1983,1984,West Indies,0,3,3,6
+254,Australia,Pakistan,1983,1984,Australia,2,0,3,5
+255,New Zealand,England,1983,1984,New Zealand,1,0,2,3
+256,Pakistan,England,1983,1984,Pakistan,1,0,2,3
+257,Sri Lanka,New Zealand,1983,1984,New Zealand,0,2,1,3
+258,West Indies,Australia,1983,1984,West Indies,3,0,2,5
+259,England,West Indies,1984,1984,West Indies,0,5,0,5
+260,England,Sri Lanka,1984,1984,drawn,0,0,1,1
+261,Pakistan,India,1984,1985,drawn,0,0,2,2
+262,Pakistan,New Zealand,1984,1985,Pakistan,2,0,1,3
+263,Australia,West Indies,1984,1985,West Indies,1,3,1,5
+264,India,England,1984,1985,England,1,2,2,5
+265,New Zealand,Pakistan,1984,1985,New Zealand,2,0,1,3
+266,West Indies,New Zealand,1984,1985,West Indies,2,0,2,4
+267,England,Australia,1985,1985,England,3,1,2,6
+268,Sri Lanka,India,1985,1985,Sri Lanka,1,0,2,3
+269,Pakistan,Sri Lanka,1985,1986,Pakistan,2,0,1,3
+270,Australia,New Zealand,1985,1986,New Zealand,1,2,0,3
+271,Australia,India,1985,1986,drawn,0,0,3,3
+272,New Zealand,Australia,1985,1986,New Zealand,1,0,2,3
+273,Sri Lanka,Pakistan,1985,1986,drawn,1,1,1,3
+274,West Indies,England,1985,1986,West Indies,5,0,0,5
+275,England,India,1986,1986,India,0,2,1,3
+276,England,New Zealand,1986,1986,New Zealand,0,1,2,3
+277,India,Australia,1986,1987,drawn,0,0,3,3
+278,Pakistan,West Indies,1986,1987,drawn,1,1,1,3
+279,India,Sri Lanka,1986,1987,India,2,0,1,3
+280,Australia,England,1986,1987,England,1,2,2,5
+281,New Zealand,West Indies,1986,1987,drawn,1,1,1,3
+282,India,Pakistan,1986,1987,Pakistan,0,1,4,5
+283,Sri Lanka,New Zealand,1987,1987,drawn,0,0,1,1
+284,England,Pakistan,1987,1987,Pakistan,0,1,4,5
+285,Pakistan,England,1987,1988,Pakistan,1,0,2,3
+286,Australia,New Zealand,1987,1988,Australia,1,0,2,3
+287,India,West Indies,1987,1988,drawn,1,1,2,4
+289,Australia,Sri Lanka,1987,1988,Australia,1,0,0,1
+290,New Zealand,England,1987,1988,drawn,0,0,3,3
+291,West Indies,Pakistan,1987,1988,drawn,1,1,1,3
+292,England,West Indies,1988,1988,West Indies,0,4,1,5
+293,England,Sri Lanka,1988,1988,England,1,0,0,1
+294,Pakistan,Australia,1988,1989,Pakistan,1,0,2,3
+295,India,New Zealand,1988,1989,India,2,1,0,3
+296,Australia,West Indies,1988,1989,West Indies,1,3,1,5
+297,New Zealand,Pakistan,1988,1989,drawn,0,0,2,2
+298,West Indies,India,1988,1989,West Indies,3,0,1,4
+299,England,Australia,1989,1989,Australia,0,4,2,6
+300,Australia,New Zealand,1989,1990,drawn,0,0,1,1
+301,Pakistan,India,1989,1990,drawn,0,0,4,4
+302,Australia,Sri Lanka,1989,1990,Australia,1,0,1,2
+303,Australia,Pakistan,1989,1990,Australia,1,0,2,3
+304,New Zealand,India,1989,1990,New Zealand,1,0,2,3
+305,New Zealand,Australia,1989,1990,New Zealand,1,0,0,1
+306,West Indies,England,1989,1990,West Indies,2,1,1,4
+307,England,New Zealand,1990,1990,England,1,0,2,3
+308,England,India,1990,1990,England,1,0,2,3
+309,Pakistan,New Zealand,1990,1991,Pakistan,3,0,0,3
+310,India,Sri Lanka,1990,1991,India,1,0,0,1
+311,Pakistan,West Indies,1990,1991,drawn,1,1,1,3
+312,Australia,England,1990,1991,Australia,3,0,2,5
+313,New Zealand,Sri Lanka,1990,1991,drawn,0,0,3,3
+314,West Indies,Australia,1990,1991,West Indies,2,1,2,5
+315,England,West Indies,1991,1991,drawn,2,2,1,5
+316,England,Sri Lanka,1991,1991,England,1,0,0,1
+317,Pakistan,Sri Lanka,1991,1992,Pakistan,1,0,2,3
+318,Australia,India,1991,1992,Australia,4,0,1,5
+319,New Zealand,England,1991,1992,England,0,2,1,3
+320,West Indies,South Africa,1991,1992,West Indies,1,0,0,1
+321,England,Pakistan,1992,1992,Pakistan,1,2,2,5
+322,Sri Lanka,Australia,1992,1992,Australia,0,1,2,3
+323,Zimbabwe,India,1992,1993,drawn,0,0,1,1
+324,Zimbabwe,New Zealand,1992,1993,New Zealand,0,1,1,2
+325,Sri Lanka,New Zealand,1992,1993,Sri Lanka,1,0,1,2
+326,New Zealand,Pakistan,1992,1993,Pakistan,0,1,0,1
+327,South Africa,India,1992,1993,South Africa,1,0,3,4
+328,Australia,West Indies,1992,1993,West Indies,1,2,2,5
+329,India,England,1992,1993,India,3,0,0,3
+330,New Zealand,Australia,1992,1993,drawn,1,1,1,3
+331,India,Zimbabwe,1992,1993,India,1,0,0,1
+332,Sri Lanka,England,1992,1993,Sri Lanka,1,0,0,1
+333,West Indies,Pakistan,1992,1993,West Indies,2,0,1,3
+334,Sri Lanka,India,1993,1993,India,0,1,2,3
+335,England,Australia,1993,1993,Australia,1,4,1,6
+336,Sri Lanka,South Africa,1993,1993,South Africa,0,1,2,3
+337,Australia,New Zealand,1993,1994,Australia,2,0,1,3
+338,Sri Lanka,West Indies,1993,1994,drawn,0,0,1,1
+339,Pakistan,Zimbabwe,1993,1994,Pakistan,2,0,1,3
+340,Australia,South Africa,1993,1994,drawn,1,1,1,3
+341,India,Sri Lanka,1993,1994,India,3,0,0,3
+342,New Zealand,Pakistan,1993,1994,Pakistan,1,2,0,3
+343,New Zealand,India,1993,1994,drawn,0,0,1,1
+344,South Africa,Australia,1993,1994,drawn,1,1,1,3
+345,West Indies,England,1993,1994,West Indies,3,1,1,5
+346,England,New Zealand,1994,1994,England,1,0,2,3
+347,England,South Africa,1994,1994,drawn,1,1,1,3
+348,Sri Lanka,Pakistan,1994,1994,Pakistan,0,2,0,2
+349,Zimbabwe,Sri Lanka,1994,1995,drawn,0,0,3,3
+350,Pakistan,Australia,1994,1995,Pakistan,1,0,2,3
+351,India,West Indies,1994,1995,drawn,1,1,1,3
+352,South Africa,New Zealand,1994,1995,South Africa,2,1,0,3
+353,South Africa,Pakistan,1994,1995,South Africa,1,0,0,1
+354,Australia,England,1994,1995,Australia,3,1,1,5
+355,New Zealand,West Indies,1994,1995,West Indies,0,1,1,2
+356,Zimbabwe,Pakistan,1994,1995,Pakistan,1,2,0,3
+358,New Zealand,Sri Lanka,1994,1995,Sri Lanka,0,1,1,2
+359,West Indies,Australia,1994,1995,Australia,1,2,1,4
+360,England,West Indies,1995,1995,drawn,2,2,2,6
+361,Pakistan,Sri Lanka,1995,1996,Sri Lanka,1,2,0,3
+362,Zimbabwe,South Africa,1995,1996,South Africa,0,1,0,1
+363,India,New Zealand,1995,1996,India,1,0,2,3
+364,Australia,Pakistan,1995,1996,Australia,2,1,0,3
+365,New Zealand,Pakistan,1995,1996,Pakistan,0,1,0,1
+366,South Africa,England,1995,1996,South Africa,1,0,4,5
+367,New Zealand,Zimbabwe,1995,1996,drawn,0,0,2,2
+368,Australia,Sri Lanka,1995,1996,Australia,3,0,0,3
+369,West Indies,New Zealand,1995,1996,West Indies,1,0,1,2
+370,England,India,1996,1996,England,1,0,2,3
+371,England,Pakistan,1996,1996,Pakistan,0,2,1,3
+372,Sri Lanka,Zimbabwe,1996,1996,Sri Lanka,2,0,0,2
+373,India,Australia,1996,1997,India,1,0,0,1
+374,Pakistan,Zimbabwe,1996,1997,Pakistan,1,0,1,2
+375,Pakistan,New Zealand,1996,1997,drawn,1,1,0,2
+376,India,South Africa,1996,1997,India,2,1,0,3
+377,Zimbabwe,England,1996,1997,drawn,0,0,2,2
+378,South Africa,India,1996,1997,South Africa,2,0,1,3
+379,Australia,West Indies,1996,1997,Australia,3,2,0,5
+380,New Zealand,England,1996,1997,England,0,2,1,3
+381,New Zealand,Sri Lanka,1996,1997,New Zealand,2,0,0,2
+382,South Africa,Australia,1996,1997,Australia,1,2,0,3
+383,West Indies,India,1996,1997,West Indies,1,0,4,5
+384,Sri Lanka,Pakistan,1996,1997,drawn,0,0,2,2
+385,West Indies,Sri Lanka,1997,1997,West Indies,1,0,1,2
+386,Sri Lanka,India,1997,1997,drawn,0,0,2,2
+387,England,Australia,1997,1997,Australia,2,3,1,6
+388,Zimbabwe,New Zealand,1997,1998,drawn,0,0,2,2
+389,Pakistan,South Africa,1997,1998,South Africa,0,1,2,3
+390,Australia,New Zealand,1997,1998,Australia,2,0,1,3
+391,India,Sri Lanka,1997,1998,drawn,0,0,3,3
+392,Pakistan,West Indies,1997,1998,Pakistan,3,0,0,3
+393,Sri Lanka,Zimbabwe,1997,1998,Sri Lanka,2,0,0,2
+394,Australia,South Africa,1997,1998,Australia,1,0,2,3
+395,New Zealand,Zimbabwe,1997,1998,New Zealand,2,0,0,2
+396,South Africa,Pakistan,1997,1998,drawn,1,1,1,3
+397,West Indies,England,1997,1998,West Indies,3,1,2,6
+398,Zimbabwe,Pakistan,1997,1998,Pakistan,0,1,1,2
+399,India,Australia,1997,1998,India,2,1,0,3
+400,South Africa,Sri Lanka,1997,1998,South Africa,2,0,0,2
+401,Sri Lanka,New Zealand,1998,1998,Sri Lanka,2,1,0,3
+402,England,South Africa,1998,1998,England,2,1,2,5
+403,England,Sri Lanka,1998,1998,Sri Lanka,0,1,0,1
+404,Zimbabwe,India,1998,1999,Zimbabwe,1,0,0,1
+405,Pakistan,Australia,1998,1999,Australia,0,1,2,3
+406,Pakistan,Zimbabwe,1998,1999,Zimbabwe,0,1,2,3
+407,Australia,England,1998,1999,Australia,3,1,1,5
+408,New Zealand,India,1998,1999,New Zealand,1,0,1,2
+409,South Africa,West Indies,1998,1999,South Africa,5,0,0,5
+410,India,Pakistan,1998,1999,drawn,1,1,0,2
+412,New Zealand,South Africa,1998,1999,South Africa,0,1,2,3
+413,West Indies,Australia,1998,1999,drawn,2,2,0,4
+414,England,New Zealand,1999,1999,New Zealand,1,2,1,4
+415,Sri Lanka,Australia,1999,1999,Sri Lanka,1,0,2,3
+416,Zimbabwe,Australia,1999,1900,Australia,0,1,0,1
+417,India,New Zealand,1999,1900,India,1,0,2,3
+418,South Africa,Zimbabwe,1999,1900,South Africa,2,0,0,2
+419,Australia,Pakistan,1999,1900,Australia,3,0,0,3
+420,Zimbabwe,Sri Lanka,1999,1900,Sri Lanka,0,1,2,3
+421,New Zealand,West Indies,1999,1900,New Zealand,2,0,0,2
+422,Australia,India,1999,1900,Australia,3,0,0,3
+423,South Africa,England,1999,1900,South Africa,2,1,2,5
+424,India,South Africa,1999,1900,South Africa,0,2,0,2
+425,Pakistan,Sri Lanka,1999,1900,Sri Lanka,1,2,0,3
+426,West Indies,Zimbabwe,1999,1900,West Indies,2,0,0,2
+427,New Zealand,Australia,1999,1900,Australia,0,3,0,3
+428,West Indies,Pakistan,2000,2000,West Indies,1,0,2,3
+429,England,Zimbabwe,2000,2000,England,1,0,1,2
+430,Sri Lanka,Pakistan,2000,2000,Pakistan,0,2,1,3
+431,Sri Lanka,South Africa,2000,2000,drawn,1,1,1,3
+432,England,West Indies,2000,2000,England,3,1,1,5
+433,Zimbabwe,New Zealand,2000,2001,New Zealand,0,2,0,2
+434,Bangladesh,India,2000,2001,India,0,1,0,1
+435,India,Zimbabwe,2000,2001,India,1,0,1,2
+436,Pakistan,England,2000,2001,England,0,1,2,3
+437,South Africa,New Zealand,2000,2001,South Africa,2,0,1,3
+438,New Zealand,Zimbabwe,2000,2001,drawn,0,0,1,1
+439,Australia,West Indies,2000,2001,Australia,5,0,0,5
+440,South Africa,Sri Lanka,2000,2001,South Africa,2,0,1,3
+441,Sri Lanka,England,2000,2001,England,1,2,0,3
+442,India,Australia,2000,2001,India,2,1,0,3
+443,New Zealand,Pakistan,2000,2001,drawn,1,1,1,3
+444,West Indies,South Africa,2000,2001,South Africa,1,2,2,5
+445,Zimbabwe,Bangladesh,2000,2001,Zimbabwe,2,0,0,2
+446,England,Pakistan,2001,2001,drawn,1,1,0,2
+447,Zimbabwe,India,2001,2001,drawn,1,1,0,2
+448,Zimbabwe,West Indies,2001,2001,West Indies,0,1,1,2
+449,England,Australia,2001,2001,Australia,1,4,0,5
+450,Sri Lanka,India,2001,2001,Sri Lanka,2,1,0,3
+451,Zimbabwe,South Africa,2001,2002,South Africa,0,1,1,2
+452,Bangladesh,Zimbabwe,2001,2002,Zimbabwe,0,1,1,2
+453,South Africa,India,2001,2002,South Africa,1,0,1,2
+454,Sri Lanka,West Indies,2001,2002,Sri Lanka,3,0,0,3
+455,Australia,New Zealand,2001,2002,drawn,0,0,3,3
+456,India,England,2001,2002,India,1,0,2,3
+457,New Zealand,Bangladesh,2001,2002,New Zealand,2,0,0,2
+458,Australia,South Africa,2001,2002,Australia,3,0,0,3
+459,Sri Lanka,Zimbabwe,2001,2002,Sri Lanka,3,0,0,3
+460,Bangladesh,Pakistan,2001,2002,Pakistan,0,2,0,2
+461,Pakistan,West Indies,2001,2002,Pakistan,2,0,0,2
+462,India,Zimbabwe,2001,2002,India,2,0,0,2
+464,South Africa,Australia,2001,2002,Australia,1,2,0,3
+465,New Zealand,England,2001,2002,drawn,1,1,1,3
+466,Pakistan,New Zealand,2002,2002,Pakistan,1,0,0,1
+467,West Indies,India,2002,2002,West Indies,2,1,2,5
+468,England,Sri Lanka,2002,2002,England,2,0,1,3
+469,West Indies,New Zealand,2002,2002,New Zealand,0,1,1,2
+470,Sri Lanka,Bangladesh,2002,2002,Sri Lanka,2,0,0,2
+471,England,India,2002,2002,drawn,1,1,2,4
+472,Australia,Pakistan,2002,2003,Australia,3,0,0,3
+473,South Africa,Bangladesh,2002,2003,South Africa,2,0,0,2
+474,India,West Indies,2002,2003,India,2,0,1,3
+475,Zimbabwe,Pakistan,2002,2003,Pakistan,0,2,0,2
+476,South Africa,Sri Lanka,2002,2003,South Africa,2,0,0,2
+477,Bangladesh,West Indies,2002,2003,West Indies,0,2,0,2
+478,New Zealand,India,2002,2003,New Zealand,2,0,0,2
+479,South Africa,Pakistan,2002,2003,South Africa,2,0,0,2
+480,Australia,England,2002,2003,Australia,4,1,0,5
+481,Bangladesh,South Africa,2003,2003,South Africa,0,2,0,2
+482,Sri Lanka,New Zealand,2003,2003,drawn,0,0,2,2
+483,West Indies,Australia,2003,2003,Australia,1,3,0,4
+484,England,Zimbabwe,2003,2003,England,2,0,0,2
+485,West Indies,Sri Lanka,2003,2003,West Indies,1,0,1,2
+486,Australia,Bangladesh,2003,2003,Australia,2,0,0,2
+487,Pakistan,Bangladesh,2003,2003,Pakistan,3,0,0,3
+488,England,South Africa,2003,2003,drawn,2,2,1,5
+489,India,New Zealand,2003,2004,drawn,0,0,2,2
+490,Australia,Zimbabwe,2003,2004,Australia,2,0,0,2
+491,Pakistan,South Africa,2003,2004,Pakistan,1,0,1,2
+492,Bangladesh,England,2003,2004,England,0,2,0,2
+493,Zimbabwe,West Indies,2003,2004,West Indies,0,1,1,2
+494,Sri Lanka,England,2003,2004,Sri Lanka,1,0,2,3
+495,New Zealand,Pakistan,2003,2004,Pakistan,0,1,1,2
+496,Australia,India,2003,2004,drawn,1,1,2,4
+497,South Africa,West Indies,2003,2004,South Africa,3,0,1,4
+498,Zimbabwe,Bangladesh,2003,2004,Zimbabwe,1,0,1,2
+499,Sri Lanka,Australia,2003,2004,Australia,0,3,0,3
+500,New Zealand,South Africa,2003,2004,drawn,1,1,1,3
+501,West Indies,England,2003,2004,England,0,3,1,4
+502,Pakistan,India,2003,2004,India,1,2,0,3
+503,Zimbabwe,Sri Lanka,2004,2004,Sri Lanka,0,2,0,2
+504,West Indies,Bangladesh,2004,2004,West Indies,1,0,1,2
+505,England,New Zealand,2004,2004,England,3,0,0,3
+506,Australia,Sri Lanka,2004,2004,Australia,1,0,1,2
+507,Sri Lanka,South Africa,2004,2004,Sri Lanka,1,0,1,2
+508,England,West Indies,2004,2004,England,4,0,0,4
+509,Bangladesh,New Zealand,2004,2005,New Zealand,0,2,0,2
+510,Pakistan,Sri Lanka,2004,2005,drawn,1,1,0,2
+511,India,Australia,2004,2005,Australia,1,2,1,4
+512,Australia,New Zealand,2004,2005,Australia,2,0,0,2
+513,India,South Africa,2004,2005,India,1,0,1,2
+514,Bangladesh,India,2004,2005,India,0,2,0,2
+515,Australia,Pakistan,2004,2005,Australia,3,0,0,3
+516,Bangladesh,Zimbabwe,2004,2005,Bangladesh,1,0,1,2
+517,South Africa,England,2004,2005,England,1,2,2,5
+518,South Africa,Zimbabwe,2004,2005,South Africa,2,0,0,2
+519,India,Pakistan,2004,2005,drawn,1,1,1,3
+520,New Zealand,Australia,2004,2005,Australia,0,2,1,3
+521,New Zealand,Sri Lanka,2004,2005,New Zealand,1,0,1,2
+522,West Indies,South Africa,2005,2005,South Africa,0,2,2,4
+523,England,Bangladesh,2005,2005,England,2,0,0,2
+524,West Indies,Pakistan,2005,2005,drawn,1,1,0,2
+525,Sri Lanka,West Indies,2005,2005,Sri Lanka,2,0,0,2
+526,Zimbabwe,New Zealand,2005,2005,New Zealand,0,2,0,2
+527,England,Australia,2005,2005,England,2,1,2,5
+528,Sri Lanka,Bangladesh,2005,2005,Sri Lanka,2,0,0,2
+529,Zimbabwe,India,2005,2005,India,0,2,0,2
+530,Australia,ICC World XI,2005,2006,Australia,1,0,0,1
+531,Australia,West Indies,2005,2006,Australia,3,0,0,3
+532,Pakistan,England,2005,2006,Pakistan,2,0,1,3
+533,India,Sri Lanka,2005,2006,India,2,0,1,3
+534,Australia,South Africa,2005,2006,Australia,2,0,1,3
+535,Pakistan,India,2005,2006,Pakistan,1,0,2,3
+536,Bangladesh,Sri Lanka,2005,2006,Sri Lanka,0,2,0,2
+537,India,England,2005,2006,drawn,1,1,1,3
+538,New Zealand,West Indies,2005,2006,New Zealand,2,0,1,3
+539,South Africa,Australia,2005,2006,Australia,0,3,0,3
+540,Sri Lanka,Pakistan,2005,2006,Pakistan,0,1,1,2
+541,Bangladesh,Australia,2005,2006,Australia,0,2,0,2
+542,South Africa,New Zealand,2005,2006,South Africa,2,0,1,3
+543,England,Sri Lanka,2006,2006,drawn,1,1,1,3
+544,West Indies,India,2006,2006,India,0,1,3,4
+545,Sri Lanka,South Africa,2006,2006,Sri Lanka,2,0,0,2
+546,England,Pakistan,2006,2006,England,3,0,1,4
+547,Pakistan,West Indies,2006,2007,Pakistan,2,0,1,3
+548,New Zealand,Sri Lanka,2006,2007,drawn,1,1,0,2
+549,Australia,England,2006,2007,Australia,5,0,0,5
+550,South Africa,India,2006,2007,South Africa,2,1,0,3
+551,South Africa,Pakistan,2006,2007,South Africa,2,1,0,3
+552,Bangladesh,India,2007,2007,India,0,1,1,2
+553,England,West Indies,2007,2007,England,3,0,1,4
+554,Sri Lanka,Bangladesh,2007,2007,Sri Lanka,3,0,0,3
+555,England,India,2007,2007,India,0,1,2,3
+556,Pakistan,South Africa,2007,2008,South Africa,0,1,1,2
+557,South Africa,New Zealand,2007,2008,South Africa,2,0,0,2
+558,Australia,Sri Lanka,2007,2008,Australia,2,0,0,2
+559,India,Pakistan,2007,2008,India,1,0,2,3
+560,Sri Lanka,England,2007,2008,Sri Lanka,1,0,2,3
+561,South Africa,West Indies,2007,2008,South Africa,2,1,0,3
+562,New Zealand,Bangladesh,2007,2008,New Zealand,2,0,0,2
+563,Australia,India,2007,2008,Australia,2,1,1,4
+564,Bangladesh,South Africa,2007,2008,South Africa,0,2,0,2
+565,New Zealand,England,2007,2008,England,1,2,0,3
+566,West Indies,Sri Lanka,2007,2008,drawn,1,1,0,2
+567,India,South Africa,2007,2008,drawn,1,1,1,3
+568,England,New Zealand,2008,2008,England,2,0,1,3
+569,West Indies,Australia,2008,2008,Australia,0,2,1,3
+570,England,South Africa,2008,2008,South Africa,1,2,1,4
+571,Sri Lanka,India,2008,2008,Sri Lanka,2,1,0,3
+572,Bangladesh,New Zealand,2008,2009,New Zealand,0,1,1,2
+573,India,Australia,2008,2009,India,2,0,2,4
+574,South Africa,Bangladesh,2008,2009,South Africa,2,0,0,2
+575,Australia,New Zealand,2008,2009,Australia,2,0,0,2
+576,India,England,2008,2009,India,1,0,1,2
+577,New Zealand,West Indies,2008,2009,drawn,0,0,2,2
+578,Bangladesh,Sri Lanka,2008,2009,Sri Lanka,0,2,0,2
+579,Australia,South Africa,2008,2009,South Africa,1,2,0,3
+580,Pakistan,Sri Lanka,2008,2009,drawn,0,0,2,2
+581,West Indies,England,2008,2009,West Indies,1,0,4,5
+582,South Africa,Australia,2008,2009,Australia,1,2,0,3
+583,New Zealand,India,2008,2009,India,0,1,2,3
+584,England,West Indies,2009,2009,England,2,0,0,2
+585,West Indies,Bangladesh,2009,2009,Bangladesh,0,2,0,2
+586,Sri Lanka,Pakistan,2009,2009,Sri Lanka,2,0,1,3
+587,England,Australia,2009,2009,England,2,1,2,5
+588,Sri Lanka,New Zealand,2009,2009,Sri Lanka,2,0,0,2
+589,India,Sri Lanka,2009,2010,India,2,0,1,3
+590,New Zealand,Pakistan,2009,2010,drawn,1,1,1,3
+591,Australia,West Indies,2009,2010,Australia,2,0,1,3
+592,South Africa,England,2009,2010,drawn,1,1,2,4
+593,Australia,Pakistan,2009,2010,Australia,3,0,0,3
+594,Bangladesh,India,2009,2010,India,0,2,0,2
+595,India,South Africa,2009,2010,drawn,1,1,0,2
+596,New Zealand,Bangladesh,2009,2010,New Zealand,1,0,0,1
+597,Bangladesh,England,2009,2010,England,0,2,0,2
+598,New Zealand,Australia,2009,2010,Australia,0,2,0,2
+599,England,Bangladesh,2010,2010,England,2,0,0,2
+600,West Indies,South Africa,2010,2010,South Africa,0,2,1,3
+601,England,Pakistan,2010,2010,drawn,1,1,0,2
+602,Sri Lanka,India,2010,2010,drawn,1,1,1,3
+603,England,Pakistan,2010,2010,England,3,1,0,4
+604,India,Australia,2010,2011,India,2,0,0,2
+605,India,New Zealand,2010,2011,India,1,0,2,3
+606,Pakistan,South Africa,2010,2011,drawn,0,0,2,2
+607,Sri Lanka,West Indies,2010,2011,drawn,0,0,3,3
+608,South Africa,India,2010,2011,drawn,1,1,1,3
+609,Australia,England,2010,2011,England,1,3,1,5
+610,New Zealand,Pakistan,2010,2011,Pakistan,0,1,1,2
+611,West Indies,Pakistan,2011,2011,drawn,1,1,0,2
+612,England,Sri Lanka,2011,2011,England,1,0,2,3
+613,West Indies,India,2011,2011,India,0,1,2,3
+614,Zimbabwe,Bangladesh,2011,2011,Zimbabwe,1,0,0,1
+615,England,India,2011,2011,England,4,0,0,4
+616,Zimbabwe,Pakistan,2011,2011,Pakistan,0,1,0,1
+617,Sri Lanka,Australia,2011,2011,Australia,0,1,2,3
+618,Bangladesh,West Indies,2011,2012,West Indies,0,1,1,2
+619,Zimbabwe,New Zealand,2011,2012,New Zealand,0,1,0,1
+620,Pakistan,Sri Lanka,2011,2012,Pakistan,1,0,2,3
+621,South Africa,Australia,2011,2012,drawn,1,1,0,2
+622,India,West Indies,2011,2012,India,2,0,1,3
+623,Australia,New Zealand,2011,2012,drawn,1,1,0,2
+624,Bangladesh,Pakistan,2011,2012,Pakistan,0,2,0,2
+625,South Africa,Sri Lanka,2011,2012,South Africa,2,1,0,3
+626,Australia,India,2011,2012,Australia,4,0,0,4
+627,New Zealand,Zimbabwe,2011,2012,New Zealand,1,0,0,1
+628,Pakistan,England,2011,2012,Pakistan,3,0,0,3
+629,New Zealand,South Africa,2011,2012,South Africa,0,1,2,3
+630,Sri Lanka,England,2011,2012,drawn,1,1,0,2
+631,West Indies,Australia,2011,2012,Australia,0,2,1,3
+632,England,West Indies,2012,2012,England,2,0,1,3
+633,Sri Lanka,Pakistan,2012,2012,Sri Lanka,1,0,2,3
+634,West Indies,New Zealand,2012,2012,West Indies,2,0,0,2
+635,England,South Africa,2012,2012,South Africa,0,2,1,3
+636,India,New Zealand,2012,2012,India,2,0,0,2
+637,Bangladesh,West Indies,2012,2013,West Indies,0,2,0,2
+638,Sri Lanka,New Zealand,2012,2013,drawn,1,1,0,2
+639,Australia,South Africa,2012,2013,South Africa,0,1,2,3
+640,India,England,2012,2013,England,1,2,1,4
+641,Australia,Sri Lanka,2012,2013,Australia,3,0,0,3
+642,South Africa,New Zealand,2012,2013,South Africa,2,0,0,2
+643,South Africa,Pakistan,2012,2013,South Africa,3,0,0,3
+644,Sri Lanka,Bangladesh,2012,2013,Sri Lanka,1,0,1,2
+645,West Indies,Zimbabwe,2012,2013,West Indies,2,0,0,2
+646,India,Australia,2012,2013,India,4,0,0,4
+647,New Zealand,England,2012,2013,drawn,0,0,3,3
+648,Zimbabwe,Bangladesh,2013,2013,drawn,1,1,0,2
+649,England,New Zealand,2013,2013,England,2,0,0,2
+650,England,Australia,2013,2013,England,3,0,2,5
+651,Zimbabwe,Pakistan,2013,2013,drawn,1,1,0,2
+652,Bangladesh,New Zealand,2013,2014,drawn,0,0,2,2
+653,Pakistan,South Africa,2013,2014,drawn,1,1,0,2
+654,India,West Indies,2013,2014,India,2,0,0,2
+655,New Zealand,West Indies,2013,2014,New Zealand,2,0,1,3
+656,South Africa,India,2013,2014,South Africa,1,0,1,2
+657,Australia,England,2013,2014,Australia,5,0,0,5
+658,Pakistan,Sri Lanka,2013,2014,drawn,1,1,1,3
+659,Bangladesh,Sri Lanka,2013,2014,Sri Lanka,0,1,1,2
+660,New Zealand,India,2013,2014,New Zealand,1,0,1,2
+661,South Africa,Australia,2013,2014,Australia,1,2,0,3
+662,England,Sri Lanka,2014,2014,Sri Lanka,0,1,1,2
+663,West Indies,New Zealand,2014,2014,New Zealand,1,2,0,3
+664,Sri Lanka,South Africa,2014,2014,South Africa,0,1,1,2
+665,Zimbabwe,South Africa,2014,2014,South Africa,0,1,0,1
+666,England,India,2014,2014,England,3,1,1,5
+667,Sri Lanka,Pakistan,2014,2014,Sri Lanka,2,0,0,2
+668,West Indies,Bangladesh,2014,2014,West Indies,2,0,0,2
+669,Pakistan,Australia,2014,2015,Pakistan,2,0,0,2
+670,Bangladesh,Zimbabwe,2014,2015,Bangladesh,3,0,0,3
+671,Pakistan,New Zealand,2014,2015,drawn,1,1,1,3
+672,South Africa,West Indies,2014,2015,South Africa,2,0,1,3
+673,New Zealand,Sri Lanka,2014,2015,New Zealand,2,0,0,2
+674,Australia,India,2014,2015,Australia,2,0,2,4
+675,West Indies,England,2015,2015,drawn,1,1,1,3
+676,Bangladesh,Pakistan,2015,2015,Pakistan,0,1,1,2
+677,England,New Zealand,2015,2015,drawn,1,1,0,2
+678,Bangladesh,India,2015,2015,drawn,0,0,1,1
+679,West Indies,Australia,2015,2015,Australia,0,2,0,2
+680,Sri Lanka,Pakistan,2015,2015,Pakistan,1,2,0,3
+681,Bangladesh,South Africa,2015,2015,drawn,0,0,2,2
+682,England,Australia,2015,2015,England,3,2,0,5
+683,Sri Lanka,India,2015,2015,India,1,2,0,3
+684,Sri Lanka,West Indies,2015,2016,Sri Lanka,2,0,0,2
+685,Pakistan,England,2015,2016,Pakistan,2,0,1,3
+686,Australia,New Zealand,2015,2016,Australia,2,0,1,3
+687,India,South Africa,2015,2016,India,3,0,1,4
+688,New Zealand,Sri Lanka,2015,2016,New Zealand,2,0,0,2
+689,Australia,West Indies,2015,2016,Australia,2,0,1,3
+690,South Africa,England,2015,2016,England,1,2,1,4
+691,New Zealand,Australia,2015,2016,Australia,0,2,0,2
+692,England,Sri Lanka,2016,2016,England,2,0,1,3
+693,Zimbabwe,New Zealand,2016,2016,New Zealand,0,2,0,2
+694,England,Pakistan,2016,2016,drawn,2,2,0,4
+695,Sri Lanka,Australia,2016,2016,Sri Lanka,3,0,0,3
+696,West Indies,India,2016,2016,India,0,2,2,4
+697,South Africa,New Zealand,2016,2016,South Africa,1,0,1,2
+698,India,New Zealand,2016,2017,India,3,0,0,3
+699,Bangladesh,England,2016,2017,drawn,1,1,0,2
+700,Pakistan,West Indies,2016,2017,Pakistan,2,1,0,3
+701,Zimbabwe,Sri Lanka,2016,2017,Sri Lanka,0,2,0,2
+702,Australia,South Africa,2016,2017,South Africa,1,2,0,3
+703,New Zealand,Pakistan,2016,2017,New Zealand,2,0,0,2
+704,India,England,2016,2017,India,4,0,1,5
+705,Australia,Pakistan,2016,2017,Australia,3,0,0,3
+706,South Africa,Sri Lanka,2016,2017,South Africa,3,0,0,3
+707,New Zealand,Bangladesh,2016,2017,New Zealand,2,0,0,2
+708,India,Bangladesh,2016,2017,India,1,0,0,1
+709,Sri Lanka,Bangladesh,2016,2017,drawn,1,1,0,2
+710,India,Australia,2016,2017,India,2,1,1,4
+711,New Zealand,South Africa,2016,2017,South Africa,0,1,2,3
+712,West Indies,Pakistan,2017,2017,Pakistan,1,2,0,3
+713,Sri Lanka,Zimbabwe,2017,2017,Sri Lanka,1,0,0,1
+714,England,South Africa,2017,2017,England,3,1,0,4
+715,Sri Lanka,India,2017,2017,India,0,3,0,3
+716,Bangladesh,Australia,2017,2017,drawn,1,1,0,2
+717,England,West Indies,2017,2017,England,2,1,0,3
+718,South Africa,Bangladesh,2017,2018,South Africa,2,0,0,2
+719,Pakistan,Sri Lanka,2017,2018,Sri Lanka,0,2,0,2
+720,Zimbabwe,West Indies,2017,2018,West Indies,0,1,1,2
+721,India,Sri Lanka,2017,2018,India,1,0,2,3
+722,New Zealand,West Indies,2017,2018,New Zealand,2,0,0,2
+723,South Africa,Zimbabwe,2017,2018,South Africa,1,0,0,1
+724,Australia,England,2017,2018,Australia,4,0,1,5
+725,South Africa,India,2017,2018,South Africa,2,1,0,3
+726,Bangladesh,Sri Lanka,2017,2018,Sri Lanka,0,1,1,2
+727,South Africa,Australia,2017,2018,South Africa,3,1,0,4
+728,New Zealand,England,2017,2018,New Zealand,1,0,1,2
+729,Ireland,Pakistan,2018,2018,Pakistan,0,1,0,1
+730,England,Pakistan,2018,2018,drawn,1,1,0,2
+731,India,Afghanistan,2018,2018,India,1,0,0,1
+732,West Indies,Sri Lanka,2018,2018,drawn,1,1,1,3
+733,West Indies,Bangladesh,2018,2018,West Indies,2,0,0,2
+734,Sri Lanka,South Africa,2018,2018,Sri Lanka,2,0,0,2
+735,England,India,2018,2018,England,4,1,0,5
+736,India,West Indies,2018,2019,India,2,0,0,2
+737,Pakistan,Australia,2018,2019,Pakistan,1,0,1,2
